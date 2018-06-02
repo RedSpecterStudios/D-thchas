@@ -1,14 +1,3 @@
-# Ignore everything
 *
-
-# But not these files...
+*/
 !.gitignore
-!/Materials/.keep
-!/Models/.keep
-!/Prefabs/.keep
-!/Scenes/.keep
-!/Scripts/.keep
-# etc...
-
-# ...even if they are in subdirectories
-!*/
